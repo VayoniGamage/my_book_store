@@ -1,0 +1,10 @@
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/runner/CMakeFiles/my_books_store.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

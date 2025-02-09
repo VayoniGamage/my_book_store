@@ -1,0 +1,10 @@
+^C:\USERS\H P\ONEDRIVE\DESKTOP\SLTC\6TH SEM\MOBILE APPLICATION DEVELOPMENT\MY_BOOK_STORE\MY_BOOKS_STORE\BUILD\WINDOWS\X64\CMAKEFILES\EBA1A0E9BAE8938650665C37274CE2B2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/windows" "-BC:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/h p/OneDrive/Desktop/SLTC/6th Sem/Mobile Application Development/my_book_store/my_books_store/build/windows/x64/my_books_store.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,32 @@
+name: my_books_store
+description: A book store app built with Flutter.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.1
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - android\assets\book1.jpg
+    - android\assets\book2.jpg
+    - android\assets\JK_Rowling.jpg
+    - android\assets\John grisman.jpg
+    - android\assets\Stephen king.jpg
+    - android\assets\book3.png
+
+
