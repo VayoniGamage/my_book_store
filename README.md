@@ -26,8 +26,7 @@ This is the link to all detailed files of my project: [Goto My Google Drive](htt
 - **Language**: Dart
 - **State Management**: SetState (Can be upgraded to Provider, Riverpod, etc.)
 - **Assets Management**: Image assets for books and authors stored in local files.
-
-![Home Screen](C:\Users\h p\OneDrive\Desktop\SLTC\6th Sem\Mobile Application Development\Screenshot.png)
+  
 ## 🏗️ Installation & Setup
 ### **Prerequisites**
 - Install **Flutter SDK**: [Download Flutter](https://flutter.dev/docs/get-started/install)
@@ -41,7 +40,7 @@ This is the link to all detailed files of my project: [Goto My Google Drive](htt
    ```
 2. Navigate to the project directory:
    ```sh
-   cd MyBooksStore
+   cd my_books_store
    ```
 3. Install dependencies:
    ```sh
