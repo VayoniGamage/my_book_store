@@ -27,8 +27,7 @@ This is the link to all detailed files of my project: [Goto My Google Drive](htt
 - **State Management**: SetState (Can be upgraded to Provider, Riverpod, etc.)
 - **Assets Management**: Image assets for books and authors stored in local files.
 
-## 
-| ![Home Screen](screenshots/screenshot1.png)
+![Home Screen](C:\Users\h p\OneDrive\Desktop\SLTC\6th Sem\Mobile Application Development\Screenshot.png)
 ## 🏗️ Installation & Setup
 ### **Prerequisites**
 - Install **Flutter SDK**: [Download Flutter](https://flutter.dev/docs/get-started/install)
