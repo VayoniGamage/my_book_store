@@ -1,8 +1,9 @@
 # MyBooksStore
 
 ## 📌 Overview
-MyBooksStore is a Flutter-based mobile application designed to provide users with a seamless book shopping experience. It features an intuitive UI, easy navigation, and smooth transitions between screens, allowing users to browse, search, and explore books effortlessly.
-This is the link to all detailed files of my project: [goto my googlr drive](https://drive.google.com/drive/folders/11f5k4sY86g5ufBOujf5jR06TiFs-CFrb?usp=sharing)
+MyBooksStore is a **Flutter-based** mobile application designed to provide users with a seamless book shopping experience. It features an intuitive UI, easy navigation, and smooth transitions between screens, allowing users to browse, search, and explore books effortlessly.
+
+This is the link to all detailed files of my project: [Goto My Google Drive](https://drive.google.com/drive/folders/11f5k4sY86g5ufBOujf5jR06TiFs-CFrb?usp=sharing)
 
 ## 🎯 Features
 ### **User Interface & Experience**
@@ -21,10 +22,13 @@ This is the link to all detailed files of my project: [goto my googlr drive](htt
 - **Reusable Components**: `BookCard` and `AuthorCard` for scalable and maintainable code.
 
 ## 🛠️ Tech Stack
-- **Frontend**: Flutter (Dart)
+- **Framework**: Flutter
+- **Language**: Dart
 - **State Management**: SetState (Can be upgraded to Provider, Riverpod, etc.)
 - **Assets Management**: Image assets for books and authors stored in local files.
 
+## 
+| ![Home Screen](screenshots/screenshot1.png)
 ## 🏗️ Installation & Setup
 ### **Prerequisites**
 - Install **Flutter SDK**: [Download Flutter](https://flutter.dev/docs/get-started/install)
@@ -70,3 +74,4 @@ This is the link to all detailed files of my project: [goto my googlr drive](htt
 ## 📞 Contact
 For any inquiries or contributions, feel free to contact:
 **Vayoni Gamage** – [vayonithathsarani2770@gmail.com](mailto:vayonithathsarani2770@gmail.com)
+
